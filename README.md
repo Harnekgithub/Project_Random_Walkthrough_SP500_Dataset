@@ -1,2 +1,2 @@
-# Project_Random_Walkthrough_SP500_Dataset
+# Project Random Walkthrough SP500 Dataset
 Measuring the ability of random individual stock selection vs professional managed portfolio.
