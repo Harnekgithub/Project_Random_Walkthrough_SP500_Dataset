@@ -20,10 +20,34 @@ Once the list was compiled yfinance download function was used to get the monthl
 
 Charts below show the outcome from one such iteration.
 
-![Managed Funds](https://github.com/Harnekgithub/Project_Random_Walkthrough_SP500_Dataset/tree/main/images/Historical Chart for Managed Funds.png)  
+### Chart for porfessionally managed mutual funds
 
-![5 Stock Random Portfolios](https://github.com/Harnekgithub/Project_Random_Walkthrough_SP500_Dataset/tree/main/images/Comparison of Average of all portfolios with 5 stocks in them vs managed funds.png)
+![Managed Funds](images/Historical_Chart_for_Managed_Funds.png)  
 
-![10 Stock Random Portfolios](https://github.com/Harnekgithub/Project_Random_Walkthrough_SP500_Dataset/tree/main/images/Comparison of Average of all portfolios with 10 stocks in them vs managed funds.png)
+## Portfolio of 5 randomly picked stocks vs Managed Funds
 
-![15 Stock Random Portfolios](./images/Comparison of Average of all portfolios with 15 stocks in them vs managed funds.png)
+![5 Stock Random Portfolios](images/Comparison_of_5_stocks.png)
+
+## Portfolio of 10 randomly picked stocks vs Managed Funds
+
+![10 Stock Random Portfolios](images/Comparison_of_10_stocks.png)
+
+## Portfolio of 15 randomly picked stocks vs Managed Funds
+
+![15 Stock Random Portfolios](images/Comparison_of_15_stocks.png)
+
+## Portfolio of 5 randomly picked stocks performance of 20 years
+
+![Historical Chart](images/Historical_Chart_of_5_stock_Random_Portfolios.png)
+
+## Portfolio of 10 randomly picked stocks performance of 20 years
+
+![Historical Chart](images/Historical_Chart_of_10_stock_Random_Portfolios.png)
+
+## Portfolio of 15 randomly picked stocks performance of 20 years
+
+![Historical Chart](images/Historical_Chart_of_15_stock_Random_Portfolios.png)
+
+
+
+
