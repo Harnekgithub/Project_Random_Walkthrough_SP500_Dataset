@@ -27,3 +27,4 @@ Charts below show the outcome from one such iteration.
 ![10 Stock Random Portfolios](./images/Comparison of Average of all portfolios with 10 stocks in them vs managed funds.png)
 
 ![15 Stock Random Portfolios](./images/Comparison of Average of all portfolios with 15 stocks in them vs managed funds.png)
+
